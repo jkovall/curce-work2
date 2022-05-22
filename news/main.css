@@ -1,0 +1,40 @@
+article{
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px auto;
+    box-shadow: 0 0 5px 3px gray;
+}
+article .image img{
+    width: 100%;
+}
+article .author{
+    text-decoration: underline;
+}
+article .published{
+    font-style: italic;
+}
+article .description{
+    text-align: justify;
+    border-bottom: 1px solid lightgray;
+}
+article a{
+    text-decoration: none !important;
+}
+pre{
+    color: white;
+    background-color: none;
+}
+.pp{
+   background-color: rgb(255, 255, 255);
+}
+
+.mms{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Pacifico', cursive;;
+}
+/* .tt{
+    text-align: center;
+    font-family: 'Pacifico', cursive;;
+    margin-top: 10px;
+} */
